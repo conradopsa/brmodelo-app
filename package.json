@@ -6,7 +6,7 @@
     "start": "gulp"
   },
   "engines" : { 
-    "node" : "^10.15.0"
+    "node" : "~10.15.0"
   },
   "dependencies": {
     "angular": "^1.8.0",
